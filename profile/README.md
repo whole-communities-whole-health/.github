@@ -3,4 +3,4 @@
 
   [Whole Communities-Whole Health](https://join.wholecommunities.utexas.edu) is a community centered research project from The University of Texas at Austin which is committed to the health of families living in Central Texas. If you would like to find out how to participate in the family health study, you can find more details [here](https://join.wholecommunities.utexas.edu).
 
-  Researchers involved with WCWH will need to contact the WCWH data manager for access to all repositories here.
+  Researchers involved with WCWH will need to contact the WCWH data manager for access to all Github repositories.
